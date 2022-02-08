@@ -9,9 +9,9 @@ header {
     background-color: white;
     padding: 16px;
   }
-  .finstagram_post {
+  .finstagram-post {
     margin-bottom: 48px;
   }
-  .finstagram_post .user-info img {
+  .finstagram-post .user-info img {
     border-radius: 50%;
   }    
